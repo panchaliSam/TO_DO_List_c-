@@ -1,0 +1,14 @@
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\obj\Debug\net8.0\TO_D0_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\obj\Debug\net8.0\TO_D0_List.AssemblyInfoInputs.cache
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\obj\Debug\net8.0\TO_D0_List.AssemblyInfo.cs
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\obj\Debug\net8.0\TO_D0_List.csproj.CoreCompileInputs.cache
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\bin\Debug\net8.0\TO_D0_List.exe
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\bin\Debug\net8.0\TO_D0_List.deps.json
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\bin\Debug\net8.0\TO_D0_List.runtimeconfig.json
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\bin\Debug\net8.0\TO_D0_List.dll
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\bin\Debug\net8.0\TO_D0_List.pdb
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\obj\Debug\net8.0\TO_D0_List.dll
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\obj\Debug\net8.0\refint\TO_D0_List.dll
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\obj\Debug\net8.0\TO_D0_List.pdb
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\obj\Debug\net8.0\TO_D0_List.genruntimeconfig.cache
+D:\Panchali Samarasinghe\C#\TO_D0_List\TO_D0_List\obj\Debug\net8.0\ref\TO_D0_List.dll
